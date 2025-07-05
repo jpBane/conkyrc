@@ -12,7 +12,7 @@ Installation
 Fetch the configuration files from GitHub repository:
 
 ``
-$ git clone git://github.com/jpBane/conkyrc.git ~/.conky
+$ git clone https://github.com/jpBane/conkyrc.git ~/.conky
 ``
 
 Create link:
